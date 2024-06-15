@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#platformerPack_industrial_tilesheet": {
+            "scaleInDock": 0.4563
+        },
+        "/Users/anthonyruiz/CMPM 120 Folder/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1.5181,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 169.61991963638764,
+                "y": 364.60048745141955
+            }
+        },
+        "/Users/anthonyruiz/CMPM 120 Folder/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/anthonyruiz/CMPM 120 Folder/PLATFORMERDESIGNGAME/assets",
+    "last.imagePath": "/Users/anthonyruiz/CMPM 120 Folder/PLATFORMERDESIGNGAME/assets",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 45,
+    "openFiles": [
+    ],
+    "project": "Gear_city.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
