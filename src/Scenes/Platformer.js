@@ -1,4 +1,4 @@
-class Platformer extends Phaser.Scene {
+class Platformers extends Phaser.Scene {
     constructor(){
         super("KeepItMetal");
     }
